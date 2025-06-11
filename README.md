@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Mateus.</h1>
-<h3 align="center">Sou aluno do curso edutch.</h3>
+<h3 align="center">Sou acadêmico do curso de Agronomia da Universidade Estadual de Maringá, membro bolsista do grupo PET-Agronomia e do Grupo de Inteligência em Sistemas de Produção Animal e Ambiental (GISPA).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m4teu5ribeir0&label=Profile%20views&color=0e75b6&style=flat" alt="m4teu5ribeir0" /> </p>
 
