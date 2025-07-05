@@ -50,6 +50,7 @@
     </tr>
   </table>
 </div>
+
 ---
 
 > 💡 *Este perfil é voltado para projetos acadêmicos e análises em R no contexto da agronomia e melhoramento vegetal. Sinta-se à vontade para explorar meus repositórios!*
