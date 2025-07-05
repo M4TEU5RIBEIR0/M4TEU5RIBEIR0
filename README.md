@@ -2,7 +2,8 @@
 <h3 align="center">Sou acadêmico do curso de Agronomia da Universidade Estadual de Maringá</h3>
 <h3 align="center"> Membro bolsista do grupo PET-Agronomia e também membrto do Grupo de Inteligência em Sistemas de Produção Animal e Ambiental (GISPA).</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m4teu5ribeir0&label=Profile%20views&color=0e75b6&style=flat" alt="m4teu5ribeir0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m4teu5ribeir0&label=Profile%20views&color=0e75b6&style=flat" alt="m4teu5ribeir0" /> </p> 
+<p align="left"> <img src= "https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /> <img src= "https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" /> <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" /> </p> 
 
 
 <h3 align="left">Languages and Tools:</h3>
