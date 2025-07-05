@@ -30,8 +30,26 @@
 
 ### 📫 Contato
 
-- [LinkedIn](www.linkedin.com/in/mateus-ribeiro-dos-santos-251b93370) 
-
+<div align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/mateus-ribeiro-dos-santos-251b93370" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /> 
+</a>  
+ 
+ 
+---
+### Github Stats  
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=M4TEU5RIBEIR0&show_icons=true&count_private=true&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Agro_logo.png" height="100px" width="100px" />
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 > 💡 *Este perfil é voltado para projetos acadêmicos e análises em R no contexto da agronomia e melhoramento vegetal. Sinta-se à vontade para explorar meus repositórios!*
