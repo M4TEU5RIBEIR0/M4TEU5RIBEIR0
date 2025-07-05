@@ -1,12 +1,46 @@
-<h1 align="center">Olá 👋, eu sou o Mateus.</h1>
-<h3 align="center">Sou acadêmico do curso de Agronomia da Universidade Estadual de Maringá</h3>
-<h3 align="center"> Membro bolsista do grupo PET-Agronomia e também membrto do Grupo de Inteligência em Sistemas de Produção Animal e Ambiental (GISPA).</h3>
+<h1 align="center">Olá 👋, eu sou o Mateus Ribeiro</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m4teu5ribeir0&label=Profile%20views&color=0e75b6&style=flat" alt="m4teu5ribeir0" /> </p> 
-<p align="left"> <img src= "https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /> <img src= "https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" /> <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" /> </p> 
+<p align="center">
+🎓 Acadêmico de Agronomia na <strong>Universidade Estadual de Maringá (UEM)</strong>  
+📚 Bolsista do grupo <strong>PET-Agronomia</strong>  
+🧠 Membro do <strong>GISPA</strong> - Grupo de Inteligência em Sistemas de Produção Animal e Ambiental  
+</p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+### 🌱 Sobre mim
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m4teu5ribeir0&show_icons=true&locale=en&layout=compact" alt="m4teu5ribeir0" /></p>
+<p> Sou estudante de Agronomia na Universidade Estadual de Maringá, com foco em pesquisa e extensão universitária. Bolsista do Programa de Educação Tutorial (PET) Agronomia e participante de iniciação científica no Grupo de Inteligência em Sistemas de Produção Animal e Ambiental (GISPA).</p>  
+<p>Tenho vivência no campo desde cedo, o que me proporciona uma visão prática das demandas do setor. Me interesso por temas como tecnologia no agronegócio, melhoramento genético, sistemas sustentáveis de produção e desenvolvimento rural. Busco constantemente novos desafios para aplicar e ampliar meus conhecimentos.</p>  
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white" />
+</p>
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contato
+
+- [LinkedIn](www.linkedin.com/in/mateus-ribeiro-dos-santos-251b93370) 
+
+---
+
+> 💡 *Este perfil é voltado para projetos acadêmicos e análises em R no contexto da agronomia e melhoramento vegetal. Sinta-se à vontade para explorar meus repositórios!*
