@@ -1,0 +1,33 @@
+name: Generate Snake
+
+# Executa a ação automaticamente todos os dias à meia-noite
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  # Permite execução manual
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      # Clona o repositório
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # Gera o SVG animado da cobrinha com base nos commits
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: M4TEU5RIBEIR0
+          outputs: |
+            ./dist/snake.svg
+
+      # Faz push do SVG para o branch `output`
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
